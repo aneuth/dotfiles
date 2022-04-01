@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aneuth@gmail.com
+	name = Anna Efthymiadou
